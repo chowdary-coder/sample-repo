@@ -1,0 +1,2 @@
+ line added in master
+second line
