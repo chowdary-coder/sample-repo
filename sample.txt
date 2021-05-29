@@ -1,4 +1,8 @@
 this is git demo for devops
 this is demo for github
 this is devops demo on may 29
+<<<<<<< HEAD
 fifth line added
+=======
+this is the fourth line added
+>>>>>>> 5a47d71ea53f7d12d47edd04178f8f68cdbb61ed
